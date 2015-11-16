@@ -22,3 +22,15 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# IntellijIDEA Project
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+GoNetworking.iml
+
