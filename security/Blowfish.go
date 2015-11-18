@@ -4,7 +4,7 @@
 // You have to install it by running "go get code.google.com/p/go.crypto/blowfish"
 // in a directory where you have source that needs to use it.
 //
-// You can execute the FTPServer like this:
+// You can execute the Blowfish like this:
 // 		Blowfish
 //
 // Which will output something like:

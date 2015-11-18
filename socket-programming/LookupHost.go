@@ -1,7 +1,7 @@
 // LookupHost
 // Utility to perform a DNS lookup on a hostname, and return multiple IP addresses
 //
-// You can execute the IpMask.go like this:
+// You can execute the LookupHost like this:
 //    LookupHost www.google.com
 //
 // Which will output something like this

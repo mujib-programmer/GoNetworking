@@ -2,7 +2,7 @@
 // The daytime service is very simple and just writes the current time to the client, closes the connection,
 // and resumes waiting for the next client.
 //
-// You can execute the DaytimeServer.go like this:
+// You can execute the UDPDaytimeServer like this:
 // 		UDPDaytimeServer
 //
 // If you run this server, it will just wait there, not doing much. When a client connects to it, it will respond

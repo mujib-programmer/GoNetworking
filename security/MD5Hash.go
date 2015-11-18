@@ -1,7 +1,7 @@
 // MD5Hash
 // Using MD5 to hashing "hello\n" string
 //
-// You can execute the FTPServer like this:
+// You can execute the MD5Hash like this:
 // 		MD5Hash
 //
 // Which will output something like:

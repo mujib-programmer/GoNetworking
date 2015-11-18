@@ -1,7 +1,7 @@
 // SaveJSON
 // Save json data to json file
 //
-// You can execute the ASN1DaytimeClient like this:
+// You can execute the SaveJSON like this:
 // 		SaveJSON
 //
 // you will get person.json file in current directory as result

@@ -1,7 +1,7 @@
 // GobEchoServer
 // decode gob marshalled data from client, and then encode back data to sent as response to client
 //
-// You can execute the ASN1DaytimeClient like this:
+// You can execute the GobEchoServer like this:
 // 		GobEchoServer
 //
 // Which will output something like this

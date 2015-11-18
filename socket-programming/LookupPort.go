@@ -1,7 +1,7 @@
 // LookupPort
 // Utility to get service port number from given service name
 //
-// You can execute the IpMask.go like this:
+// You can execute the LookupPort like this:
 //    LookupPort tcp telnet
 //
 // Which will output something like this

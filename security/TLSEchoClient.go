@@ -1,7 +1,7 @@
 // TLSEchoClient
 // Connect to TLSEchoServer
 //
-// You can execute the TLSEchoServer like this:
+// You can execute the TLSEchoClient like this:
 //		TLSEchoClient localhost:1200
 
 package main

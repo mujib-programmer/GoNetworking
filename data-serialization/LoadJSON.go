@@ -1,7 +1,7 @@
 // LoadJSON
 // Load person.json file and then decode the data to print data in some format
 //
-// You can execute the ASN1DaytimeClient like this:
+// You can execute the LoadJSON like this:
 // 		LoadJSON
 //
 // Which will output something like this

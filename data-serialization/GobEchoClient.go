@@ -1,7 +1,7 @@
 // GobEchoClient
 // encode gob data to send to server, and then decode marshalled response data from server with gob
 //
-// You can execute the JSONEchoClient like this:
+// You can execute the GobEchoClient like this:
 // 		GobEchoClient localhost:1200
 //
 // Which will output something like this

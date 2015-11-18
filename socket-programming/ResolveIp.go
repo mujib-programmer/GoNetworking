@@ -1,7 +1,7 @@
 // ResolveIP
 // Utility to get information about Ip Address from given domain name string
 //
-// You can execute the IpMask.go like this:
+// You can execute the ResolveIP like this:
 //    ResolveIP www.google.com
 //
 // Which will output something like this

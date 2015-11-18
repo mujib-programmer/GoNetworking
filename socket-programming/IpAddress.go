@@ -1,7 +1,7 @@
 // Ip Address
 // Utility to get information about Ip Address from given Ip Address string
 //
-// You can execute the IpMask.go like this:
+// You can execute the IpAddress like this:
 //    IpAddress 127.0.0.1
 //
 // Which will output something like this

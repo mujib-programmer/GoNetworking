@@ -1,7 +1,7 @@
 // LoadGob
 // load person.gob data and decoded with gob
 //
-// You can execute the SaveGob like this:
+// You can execute the LoadGob like this:
 // 		LoadGob
 //
 // which will output something like this

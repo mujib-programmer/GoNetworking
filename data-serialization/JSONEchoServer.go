@@ -1,7 +1,7 @@
 // JSONEchoServer
 // decode json marshalled data from client, and then encode back data to sent as response to client
 //
-// You can execute the ASN1DaytimeClient like this:
+// You can execute the JSONEchoServer like this:
 // 		JSONEchoServer
 //
 // Which will output something like this

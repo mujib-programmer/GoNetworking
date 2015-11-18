@@ -1,7 +1,7 @@
 // LoadX509Cert
 // Read certificate from mujib.programmer.name.cer file
 //
-// You can execute the FTPServer like this:
+// You can execute the LoadX509Cert like this:
 // 		LoadX509Cert
 //
 // Which will output something like:

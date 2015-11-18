@@ -1,7 +1,7 @@
 // UTF16Server
 // Using the BOM convention, we can write a server that prepends a BOM and writes a string in UTF-16
 //
-// You can execute the FTPServer like this:
+// You can execute the UTF16Server like this:
 // 		UTF16Server
 //
 // Which will output something like:

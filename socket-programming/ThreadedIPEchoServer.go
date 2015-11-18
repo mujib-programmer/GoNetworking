@@ -3,7 +3,7 @@
 // this version of echo server are allowing multiple client to connect using go routine multi threading
 // ThreadedIPEchoServer accept tcp or udp connection
 //
-// You can execute the SimpleEchoServer.go like this:
+// You can execute the ThreadedIPEchoServer like this:
 // 		ThreadedIPEchoServer
 //
 // If you run this server, it will just wait there, not doing much. When a client connects to it, it will respond

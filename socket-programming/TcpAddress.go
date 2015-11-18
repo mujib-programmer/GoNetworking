@@ -1,7 +1,7 @@
 // TcpAddress
 // Utility to get tcp address information from given net and addr string
 //
-// You can execute the IpMask.go like this:
+// You can execute the TcpAddress like this:
 //    TcpAddress tcp www.google.com 80
 //
 // Which will output something like this

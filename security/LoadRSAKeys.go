@@ -1,7 +1,7 @@
 // LoadRSAKeys
 // Load rsa keys from private.key and public.key files
 //
-// You can execute the FTPServer like this:
+// You can execute the LoadRSAKeys like this:
 // 		LoadRSAKeys
 //
 // Which will output something like:

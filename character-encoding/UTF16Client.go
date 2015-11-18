@@ -1,7 +1,7 @@
 // UTF16Client
 // a client that reads a byte stream, extracts and examines the BOM and then decodes the rest of the stream.
 //
-// You can execute the FTPServer like this:
+// You can execute the UTF16Client like this:
 // 		UTF16Client 0.0.0.0:1200
 //		or
 //		UTF16Client localhost:1200

@@ -1,7 +1,7 @@
 // FTPClient
 // connect to FTPServer on port 1202
 //
-// You can execute the FTPServer like this:
+// You can execute the FTPClient like this:
 // 		FTPClient localhost
 //
 // you will get interactive console to type command for server.

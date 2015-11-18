@@ -2,7 +2,7 @@
 // "echo" is another simple IETF service. This just reads what the client data, and sends it back.
 // this version of echo server are allowing multiple client to connect using go routine multi threading
 //
-// You can execute the SimpleEchoServer.go like this:
+// You can execute the ThreadedEchoServer like this:
 // 		ThreadedEchoServer
 //
 // If you run this server, it will just wait there, not doing much. When a client connects to it, it will respond

@@ -1,7 +1,7 @@
 // GenRSAKeys
 // A program to generate RSA private and public keys
 //
-// You can execute the FTPServer like this:
+// You can execute the GenRSAKeys like this:
 // 		GenRSAKeys
 //
 // Which will output something like:
